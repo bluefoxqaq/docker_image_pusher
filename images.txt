@@ -1,5 +1,5 @@
 # shuiche/mind-map:v0.9.12
-hectorqin/reader:openj9-3.2.10
+hectorqin/reader:3.2.10
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
