@@ -9,6 +9,7 @@
 # memcached:1.6.18
 # seafileltd/seafile-mc:11.0.13
 # nextcloud
-nextcloud:30.0
+# nextcloud:30.0
+nextcloud:30.0-fpm-alpine
 
 
