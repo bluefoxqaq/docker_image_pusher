@@ -1,9 +1,10 @@
 # bluefoxqaq/markdown-server:latest
 
-node:16.1.0-slim
-node:11.1.0-alpine
-
-
+#node:16.1.0-slim
+#node:11.1.0-alpine
+node:15.1.0
+node:17.1.0
+node:16.1.0
 
 
 
