@@ -1,7 +1,13 @@
 # bluefoxqaq/markdown-server:latest
 
 
-lanyi1998/dnslog-go:latest
+chialab/php:5.6-apache
+chialab/php:8.0-apache
+chialab/php:7.4-apache
+
+
+
+#lanyi1998/dnslog-go:latest
 
 
 #php:5.6-apache
