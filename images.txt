@@ -1,6 +1,10 @@
 # bluefoxqaq/markdown-server:latest
 
-mysql:5.7
+python:3.10-slim-bullseye
+python:3.10
+
+
+#mysql:5.7
 
 
 #chialab/php:5.6-apache
