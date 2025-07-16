@@ -1,7 +1,10 @@
 # bluefoxqaq/markdown-server:latest
 
-python:3.10-slim-bullseye
-python:3.10
+
+gitea/gitea:1.24-rootless
+
+#python:3.10-slim-bullseye
+#python:3.10
 
 
 #mysql:5.7
