@@ -1,5 +1,8 @@
+mysql:8.0.40-oraclelinux9
 
-squidfunk/mkdocs-material:9.6.15
+
+
+#squidfunk/mkdocs-material:9.6.15
 
 #gitea/gitea:1.24-rootless
 
